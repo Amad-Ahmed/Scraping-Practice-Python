@@ -13,3 +13,11 @@ The first task was to simply scrape the job title, company name, location, salar
 ## Task 2
 
 The second task is to scrape all the job listings for the Search filter drop down options. The data is saved to multiple CSV files, one for each search filter option.
+
+## Task 3
+
+The third task is to make asynchronous requests to the website to speed up the scraping process. The data is saved to a CSV file.
+
+## Task 4
+
+The fourth task is to utilize pagination to scrape all the job listings on the website. The data is saved to a CSV file.
