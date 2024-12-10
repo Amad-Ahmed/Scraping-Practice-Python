@@ -21,3 +21,7 @@ The third task is to make asynchronous requests to the website to speed up the s
 ## Task 4
 
 The fourth task is to utilize pagination to scrape all the job listings on the website. The data is saved to a CSV file.
+
+## Task 5
+
+The fifth task is to scrape the job listings via the api endpoint that is hit every time we scroll down the page. The data is saved to a CSV file.
